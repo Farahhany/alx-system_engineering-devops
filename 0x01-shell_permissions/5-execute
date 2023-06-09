@@ -1,2 +1,2 @@
 #!/bin/bash
--r-xr-xr-x
+chmod 767 hello
